@@ -1,0 +1,7 @@
+{
+    "client_id": "line-bot",
+    "client_secret": "line-bot",
+    "accessToken": "line-bot",
+    "requesttoken": "Googleapi",
+    "apikey": "Googleapi"
+}
